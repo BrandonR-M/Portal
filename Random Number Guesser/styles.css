@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(51, 50, 50);
+}
+
+.container{
+    border: 3px solid rgb(161, 173, 90);
+    text-align: center;
+    align-items: center;
+    width: 50%;
+    margin: auto;
+    margin-top: 200px;
+    padding: 15px;
+}
+
+.container h1{
+    color: white;
+}
+
+.container p{
+    color: white;
+}
+
+.input{
+    background-color: rgb(94, 93, 93);
+    color: white;
+}
+
+.guess-message{
+    color: white;
+}
